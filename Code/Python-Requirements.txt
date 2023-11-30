@@ -1,0 +1,7 @@
+# Tested using the following:
+
+Python==3.9.18
+tensorflow==2.6.0
+numpy
+matplotlib
+sklearn

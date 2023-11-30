@@ -1,0 +1,15 @@
+# Tested using the following:
+
+R==4.1.1
+caret
+xgboost
+lightgbm
+randomForest
+
+MLmetrics
+reshape2
+dplyr
+stringr
+ggplot2
+plotly
+htmlwidgets
